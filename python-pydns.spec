@@ -2,7 +2,7 @@
 Summary:	Python module for DNS (Domain Name Service)
 Name:		python-%{module}
 Version:	2.3.3
-Release:	7
+Release:	8
 License:	Python
 Group:		Development/Languages
 URL:		http://pydns.sourceforge.net/
