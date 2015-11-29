@@ -9,7 +9,7 @@ URL:		http://pydns.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/pydns/%{module}-%{version}.tar.gz
 # Source0-md5:	40001fb178de5920e7d67c000a782d6a
 BuildRequires:	python-devel
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
