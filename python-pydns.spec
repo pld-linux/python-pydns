@@ -1,13 +1,13 @@
 %define 	module	pydns
 Summary:	Python module for DNS (Domain Name Service)
 Name:		python-%{module}
-Version:	2.3.3
-Release:	8
+Version:	2.3.6
+Release:	1
 License:	Python
 Group:		Development/Languages
-URL:		http://pydns.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/pydns/%{module}-%{version}.tar.gz
-# Source0-md5:	40001fb178de5920e7d67c000a782d6a
+# Source0-md5:	d12ca75251854ab6fcabbaff6909b690
+URL:		http://pydns.sourceforge.net/
 BuildRequires:	python-devel
 BuildRequires:	rpmbuild(macros) >= 1.710
 BuildArch:	noarch
